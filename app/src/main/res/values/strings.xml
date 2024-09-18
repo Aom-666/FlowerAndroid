@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlowerAndroid</string>
+    <string name="url_api">http://192.168.1.105:3000/api/iris</string>
+</resources>
